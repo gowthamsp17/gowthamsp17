@@ -1,5 +1,7 @@
 ## Hi there 👋🏼 I'm Gowtham S P
 
+<br/>
+
 Information Technology Student
 <img align="right" height="290" width="430" src="https://i.pinimg.com/564x/dd/80/a9/dd80a99119680fe49d5504c621f88e25.jpg">
 - 🏫 Pursuing B.Tech in Information Technology
@@ -7,7 +9,7 @@ Information Technology Student
 - 👀 I’m interested in Software Development
 - 💡 I'm eager to learn new technologies and enhance my skills
 - 📫 How to reach me :
-<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/gowthams-p-872403243)
+<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/gowthams-p-872403243) 
       [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](http://www.github.com/gowthamsp17)
 
   <br/>
