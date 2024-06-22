@@ -8,7 +8,7 @@ Information Technology Student
 - 💡 I'm eager to learn new technologies and enhance my skills
 - 📫 How to reach me :
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](http://www.linkedin.com/in/gowthams-p-872403243)
-      [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](github.com/gowthamsp17)
+      [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](http://www.github.com/gowthamsp17)
 
   <br/>
   
