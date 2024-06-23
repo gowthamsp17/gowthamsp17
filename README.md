@@ -48,7 +48,13 @@ Information Technology Student
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=000000">
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1LAX3PYMg2iA&format=png&color=000000">
   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Of4lZV2lwBQI&format=png&color=000000">
+
+  ### My Workspace Specification:
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+  <br/>
 <!--   <img height="50" width="50" src=""> -->
+
+
 
   <!--   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000"> -->
   <!--   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000"> -->
