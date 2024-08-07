@@ -3,7 +3,9 @@
 <br/>
 
 Information Technology Student
-<img align="right" height="290" width="430" src="https://i.pinimg.com/564x/dd/80/a9/dd80a99119680fe49d5504c621f88e25.jpg">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<!-- <img align="right" height="290" width="430" src="https://i.pinimg.com/564x/dd/80/a9/dd80a99119680fe49d5504c621f88e25.jpg"> -->
+- 🔭 Here's my [portfolio](https://spgowtham.netlify.app)
 - 🏫 Pursuing B.Tech in Information Technology
 - 🌱 I’m currently learning DSA
 - 👀 I’m interested in Software Development
@@ -58,6 +60,13 @@ Information Technology Student
 
   <!--   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=P08kExl7rixR&format=png&color=000000"> -->
   <!--   <img height="50" width="50" src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000"> -->
+<br/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/gowtham_sp?theme=dark&font=Mali)
+
+<br/>
+<!--
+[![Gowtham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gowthamsp17&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 
